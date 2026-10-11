@@ -50,7 +50,3 @@ Re-test the Challenge 1 application using AI assistance, then compare the AI-ass
     └── answers.md       # Answers to the 3 submission questions
 ```
 
-## Notes
-
-- Keep prompts and raw chatbot responses in the repo so every finding can be reproduced.
-- Store each final submitted PDF in its `report/` folder, and keep drafts out of version control.
